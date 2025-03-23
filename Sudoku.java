@@ -19,7 +19,7 @@ class SudokuSolver {
           System.out.println("\nSolved Sudoku Board:");
           printBoard(board);
       } else {
-          System.out.println("\nNo solution exists!");
+          System.out.println("\nNo solution exists! Or you will enter wrong digits");
       }
   }
 
